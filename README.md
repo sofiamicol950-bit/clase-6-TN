@@ -7,5 +7,5 @@
 2. Desarrollo de la capa 2 con Netifly
 * Creamos el usuario en Netlify y el proyecto nace con la suba del archivo index.hml
 *  Hemos cambiado el nombre generado del proyecto por otro mas acorde a la necesidad de la clase.
-Adjunto link para su evaluación y valoracion:[[ANALITICA_WEB] (https://zuettacamilacomex.netlify.app)]
+Adjunto link para su evaluación y valoracion:[[ANALITICA_WEB] (https://zuettacamilacomex.netlify.app).]
  
